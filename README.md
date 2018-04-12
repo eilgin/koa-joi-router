@@ -1,3 +1,5 @@
+# This project is no longer maintained! Please go to [koa-joi-router](https://github.com/koajs/joi-router)
+
 #koa-joi-router
 
 Easy, rich and fully validated [koa](http://koajs.com) routing.
